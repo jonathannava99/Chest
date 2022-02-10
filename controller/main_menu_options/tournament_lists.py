@@ -34,6 +34,3 @@ class TournamentLists:
         tournaments_list = RequestsTournament().read_tournaments_inprocess()
         tournament_id = ListTournamentsMenu().lists_tournaments(tournaments_list)
         return tournament_id
-
-
-        

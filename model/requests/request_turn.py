@@ -104,5 +104,3 @@ class RequestsTurn(RequestsTemplate):
             .format(date_end_turn, turn_id)
         message = "Impossible de modifier le tour"
         self.update(sql, message)
-
-

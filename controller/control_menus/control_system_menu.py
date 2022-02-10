@@ -31,11 +31,11 @@ class SystemMenu:
             else:
                 # first turn
                 if int(index) == 1:
-                    list_players = player.read_player_ranking(tournament_id)
+                    list_players = player.read_player_by_ranking(tournament_id)
                     swiss_game = swissgame.swiss_game_first_turn(list_players)
                 else:
                     # others turn
-                    list_players = player.read_player_points(tournament_id)
+                    list_players = player.read_player_by_points(tournament_id)
                     swiss_game = swissgame.swiss_game_others_turn(list_players)
                 # games of the current turn
                 players = play.swiss_tournament(index, swiss_game)

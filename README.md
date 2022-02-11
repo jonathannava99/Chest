@@ -57,9 +57,21 @@ vous essayez de mettre à nouveau les scores, il vous dit que le match a déjà 
 <img src="https://github.com/jonathannava99/Chest/blob/main/chest_test_images/turn_incompleted.png" alt=""><br>
 <img src="https://github.com/jonathannava99/Chest/blob/main/chest_test_images/game_already_played.png" alt=""><br>
     <li>Si vous avez bien fait les étapes, il va vous afficher le tour numéro 2. Puis si vous répetez les étapes
-vous allez arriver au dernier tour du tournoi quand vous le complétez le tournoi passe en tournoi terminé et le menu tournoi affiche "Tournoi terminé".
+vous allez arriver au dernier tour du tournoi quand vous le complétez le tournoi passe en 
+tournoi terminé et le menu tournoi affiche "Tournoi terminé".
 </li><br>
 <img src="https://github.com/jonathannava99/Chest/blob/main/chest_test_images/comback-to-tournament-menu.png" alt=""><br>
 <img src="https://github.com/jonathannava99/Chest/blob/main/chest_test_images/go-to-tournament-menu.png" alt=""><br>
 <img src="https://github.com/jonathannava99/Chest/blob/main/chest_test_images/tournaments_ended.png" alt=""><br>
+<li>Vous pouvez voir les tours du tournoi avec leur match respectifs ou voir tous les matchs directement.</li>
+<img src="https://github.com/jonathannava99/Chest/blob/main/chest_test_images/turns_tournament_ended.png" alt=""><br>
+<img src="https://github.com/jonathannava99/Chest/blob/main/chest_test_images/all_the_games.png" alt=""><br>
+<li>Vous pouvez également allez dans le menu joueurs et voir les joueurs trés par points et autres ou modifier
+le classement d'un joueur</li>
+<img src="https://github.com/jonathannava99/Chest/blob/main/chest_test_images/all_players_by_points.png" alt=""><br>
+<img src="https://github.com/jonathannava99/Chest/blob/main/chest_test_images/update_player_ranking.png" alt=""><br>
+<li>Pour terminer vous pouvez supprimer l'un des tournois crées en allant dans le menu principal "supprimer le tournoi" ou 
+quitter le programme en sélectionnant "sortir"</li>
+<img src="https://github.com/jonathannava99/Chest/blob/main/chest_test_images/delete_tournament.png" alt="">
+<img src="" alt="">
 </ul>

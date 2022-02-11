@@ -63,15 +63,15 @@ tournoi terminé et le menu tournoi affiche "Tournoi terminé".
 <img src="https://github.com/jonathannava99/Chest/blob/main/chest_test_images/comback-to-tournament-menu.png" alt=""><br>
 <img src="https://github.com/jonathannava99/Chest/blob/main/chest_test_images/go-to-tournament-menu.png" alt=""><br>
 <img src="https://github.com/jonathannava99/Chest/blob/main/chest_test_images/tournaments_ended.png" alt=""><br>
-<li>Vous pouvez voir les tours du tournoi avec leur match respectifs ou voir tous les matchs directement.</li>
+<li>Vous pouvez voir les tours du tournoi avec leur match respectifs ou voir tous les matchs directement.</li><br>
 <img src="https://github.com/jonathannava99/Chest/blob/main/chest_test_images/turns_tournament_ended.png" alt=""><br>
 <img src="https://github.com/jonathannava99/Chest/blob/main/chest_test_images/all_the_games.png" alt=""><br>
 <li>Vous pouvez également allez dans le menu joueurs et voir les joueurs trés par points et autres ou modifier
-le classement d'un joueur</li>
+le classement d'un joueur</li><br>
 <img src="https://github.com/jonathannava99/Chest/blob/main/chest_test_images/all_players_by_points.png" alt=""><br>
 <img src="https://github.com/jonathannava99/Chest/blob/main/chest_test_images/update_player_ranking.png" alt=""><br>
 <li>Pour terminer vous pouvez supprimer l'un des tournois crées en allant dans le menu principal "supprimer le tournoi" ou 
-quitter le programme en sélectionnant "sortir"</li>
+quitter le programme en sélectionnant "sortir"</li><br>
 <img src="https://github.com/jonathannava99/Chest/blob/main/chest_test_images/delete_tournament.png" alt="">
 <img src="https://github.com/jonathannava99/Chest/blob/main/chest_test_images/quit.png" alt="">
 </ul>

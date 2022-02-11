@@ -15,7 +15,7 @@ pour l'installer est "pip install flake8-html"</li><br>
 fichier html sans prendre en compte les fichier de l'environnement python et avec 
 une violation de ligne de  119 tapez la commande suivante:
 
-"flake8 --format=html --htmldir=flake-report --extend-exclude envs --max-line-length 119".
+"flake8 --format=html --htmldir=flake-report --extend-exclude nomdeVotreEnvironnement --max-line-length 119".
 </li>
 </ul>
 <img src="https://github.com/jonathannava99/Chest/blob/main/flake-report/flake-violations.png" 
@@ -73,5 +73,5 @@ le classement d'un joueur</li>
 <li>Pour terminer vous pouvez supprimer l'un des tournois crées en allant dans le menu principal "supprimer le tournoi" ou 
 quitter le programme en sélectionnant "sortir"</li>
 <img src="https://github.com/jonathannava99/Chest/blob/main/chest_test_images/delete_tournament.png" alt="">
-<img src="" alt="">
+<img src="https://github.com/jonathannava99/Chest/blob/main/chest_test_images/quit.png" alt="">
 </ul>

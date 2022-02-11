@@ -18,4 +18,22 @@ une violation de ligne de  119 tapez la commande suivante:
 "flake8 --format=html --htmldir=flake-report --extend-exclude envs --max-line-length 119".
 </li>
 </ul>
-<img src="https://github.com/jonathannava99/Chest/blob/main/flake-report/flake-violations.png" alt="" width="800" height="250">
+<img src="https://github.com/jonathannava99/Chest/blob/main/flake-report/flake-violations.png" 
+alt="" width="1000" height="650">
+
+<h2> Chest tournament fonctionnement</h2>
+<p>Pour faire fonctionner le programme et comprendre comment il fonctionne suivez les instructions suivantes: </p>
+<ul>
+    <li>Pour démarrer le programme tapez la commande suivante: "python main.py"</li>
+    <li>Une fois le programme démarré vous allez voir un menu s'afficher </li><br>
+  <img src="https://github.com/jonathannava99/Chest/blob/main/chest_test_images/beginning.png" 
+alt="" width="100" height="100">
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+</ul>

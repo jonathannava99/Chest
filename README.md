@@ -19,7 +19,7 @@ une violation de ligne de  119 tapez la commande suivante:
 </li>
 </ul>
 <img src="https://github.com/jonathannava99/Chest/blob/main/flake-report/flake-violations.png" 
-alt="" width="1100" height="650">
+alt="" >
 
 <h2> Chest tournament fonctionnement</h2>
 <p>Pour faire fonctionner le programme et comprendre comment il fonctionne suivez les instructions suivantes: </p>
@@ -27,13 +27,15 @@ alt="" width="1100" height="650">
     <li>Pour démarrer le programme tapez la commande suivante: "python main.py"</li>
     <li>Une fois le programme démarré vous allez voir un menu s'afficher.</li><br>
   <img src="https://github.com/jonathannava99/Chest/blob/main/chest_test_images/beginning.png" 
-alt=""><br>
+alt="" style="margin-bottom: 15px">
     <li>Pour créer un tournoi il suffit de selectionner "Créer un tournoi" tapez sur la touche entrée.
 Une fois cela fait des informations vous seront demandées.</li><br>
-<img src="https://github.com/jonathannava99/Chest/blob/main/chest_test_images/create_tournament.png" 
-alt="" >
-    <li></li>
-    <li></li>
+<img src="https://github.com/jonathannava99/Chest/blob/main/chest_test_images/create_tournament.png" alt="">
+    <li>Il est pas possible d'effacer en ligne de commande avec le paquet inquirer donc faites très attention à pas
+faire de fautes. Pour le nombre de tours il faut absolument un numero et pour la date 
+il faut que ça soit absolument dans le format "yyy-mm-dd".</li><br>
+    <li>Ensuite le programme va nous demander de renseigner les joueurs ici sont au 
+nombre de 4 pour l'exemple mais normalement c'est 8.</li>
     <li></li>
     <li></li>
     <li></li>

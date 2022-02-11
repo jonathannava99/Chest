@@ -24,7 +24,7 @@ alt="" >
 <h2> Chest tournament fonctionnement</h2>
 <p>Pour faire fonctionner le programme et comprendre comment il fonctionne suivez les instructions suivantes: </p>
 <ul>
-    <li>Pour démarrer le programme tapez la commande suivante: "python main.py"</li>
+    <li>Pour démarrer le programme tapez la commande suivante: "python main.py"</li><br>
     <li>Une fois le programme démarré vous allez voir un menu s'afficher.</li><br>
   <img src="https://github.com/jonathannava99/Chest/blob/main/chest_test_images/beginning.png" 
 alt="" style="margin-bottom: 15px">
@@ -34,11 +34,26 @@ Une fois cela fait des informations vous seront demandées.</li><br>
     <li>Il est pas possible d'effacer en ligne de commande avec le paquet inquirer donc faites très attention à pas
 faire de fautes. Pour le nombre de tours il faut absolument un numero et pour la date 
 il faut que ça soit absolument dans le format "yyy-mm-dd".</li><br>
-    <li>Ensuite le programme va nous demander de renseigner les joueurs ici sont au 
-nombre de 4 pour l'exemple mais normalement c'est 8.</li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
+    <li>Ensuite le programme va vous demander de renseigner les joueurs. Sur l'image ils sont au 
+nombre de 4 pour l'exemple mais normalement c'est 8.</li><br>
+<img src="https://github.com/jonathannava99/Chest/blob/main/chest_test_images/create_players.png" alt=""><br>
+    <li>Les même regles s'applique ici sur la date. Et pour le classement il faut absolument un numero</li><br>
+    <li>Une fois que vous créez le tournoi vous revenez à l'écran d'accueil</li><br>
+    <li>Vous pouvez sélectionner le tournoi que vous venez de créer dans la liste de tournois en cours ou 
+tout simplement dans la liste de tournois. Une fois selectionné vous aurez accès au menu du tournoi</li><br>
+<img src="https://github.com/jonathannava99/Chest/blob/main/chest_test_images/tournament_menu.png" alt="">
+    <li>Vous pouvez consulter les menu joueurs pour voir toutes les données concernant les joueurs. Mais nous allons 
+d'abord commencer le tournoi en sélectionnant "commencer le tournoi".</li><br>
+<img src="https://github.com/jonathannava99/Chest/blob/main/chest_test_images/turn1.png" alt="">
+    <li>Les matchs à jouer du tour 1 vont s'afficher, sélectionner l'un des matchs et marquez les scores. Pour une victoire marquer
+1 et 0 pour l'autre et pour l'égalité marquez 0.5 pour les deux.</li><br>
+<img src="https://github.com/jonathannava99/Chest/blob/main/chest_test_images/comback-to-tournament-menu.png" alt="">
+    <li>Un fois les scores renseigner ça vous renvoi vers le menu tournoi à nouveau mais ce n'est plus "commencer le tournoi" 
+qui s'affiche mais "continuer le tournoi. A chaque fois que rentrez un score il vous renvoie vers le menu tournoi.
+Quand vous avez fait tous les matchs du tournoi vous pouvez sélectionner l'option "valider le tour 1". 
+Si vous sélectionnez cette option avant d'avoir fait tous les matchs un message s'affiche en 
+vous expliquant que vous n'avez pas fait tous les matchs du tour. Pareille si vous avez déjà joué un match et que 
+vous essayez de mettre à nouveau les scores, il vous dit que le match a déjà été joué.</li><br>
+<img src="https://github.com/jonathannava99/Chest/blob/main/chest_test_images/turn_incompleted.png" alt=""><br>
+<img src="https://github.com/jonathannava99/Chest/blob/main/chest_test_images/game_already_played.png" alt=""><br>
 </ul>

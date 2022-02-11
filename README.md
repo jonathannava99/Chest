@@ -1,5 +1,4 @@
 <h1>Chest tournament</h1>
-<hr>
 <h2>Prérequis</h2>
 <p>Installer les paquetes du fichier requirements.txt</p>
 <h2>Flake Report</h2>
@@ -19,4 +18,4 @@ une violation de ligne de  119 tapez la commande suivante:
 "flake8 --format=html --htmldir=flake-report --extend-exclude envs --max-line-length 119".
 </li>
 </ul>
-<img src="https://github.com/jonathannava99/Chest/blob/main/flake-report/flake-violations.png" alt="" width="450" height="250">
+<img src="https://github.com/jonathannava99/Chest/blob/main/flake-report/flake-violations.png" alt="" width="800" height="250">

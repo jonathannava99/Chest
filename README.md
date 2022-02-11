@@ -56,4 +56,10 @@ vous expliquant que vous n'avez pas fait tous les matchs du tour. Pareille si vo
 vous essayez de mettre à nouveau les scores, il vous dit que le match a déjà été joué.</li><br>
 <img src="https://github.com/jonathannava99/Chest/blob/main/chest_test_images/turn_incompleted.png" alt=""><br>
 <img src="https://github.com/jonathannava99/Chest/blob/main/chest_test_images/game_already_played.png" alt=""><br>
+    <li>Si vous avez bien fait les étapes, il va vous afficher le tour numéro 2. Puis si vous répetez les étapes
+vous allez arriver au dernier tour du tournoi quand vous le complétez le tournoi passe en tournoi terminé et le menu tournoi affiche "Tournoi terminé".
+</li><br>
+<img src="https://github.com/jonathannava99/Chest/blob/main/chest_test_images/comback-to-tournament-menu.png" alt=""><br>
+<img src="https://github.com/jonathannava99/Chest/blob/main/chest_test_images/go-to-tournament-menu.png" alt=""><br>
+<img src="https://github.com/jonathannava99/Chest/blob/main/chest_test_images/tournaments_ended.png" alt=""><br>
 </ul>

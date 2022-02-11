@@ -19,4 +19,4 @@ une violation de ligne de  119 tapez la commande suivante:
 "flake8 --format=html --htmldir=flake-report --extend-exclude envs --max-line-length 119".
 </li>
 </ul>
-<img src="https://github.com/jonathannava99/Chest/blob/main/flake-report/flake-violations.png" alt="" width="50" height="50">
+<img src="https://github.com/jonathannava99/Chest/blob/main/flake-report/flake-violations.png" alt="" width="450" height="250">

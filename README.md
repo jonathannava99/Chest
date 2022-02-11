@@ -19,7 +19,7 @@ une violation de ligne de  119 tapez la commande suivante:
 </li>
 </ul>
 <img src="https://github.com/jonathannava99/Chest/blob/main/flake-report/flake-violations.png" 
-alt="" width="1000" height="650">
+alt="" width="1100" height="650">
 
 <h2> Chest tournament fonctionnement</h2>
 <p>Pour faire fonctionner le programme et comprendre comment il fonctionne suivez les instructions suivantes: </p>
@@ -27,7 +27,7 @@ alt="" width="1000" height="650">
     <li>Pour démarrer le programme tapez la commande suivante: "python main.py"</li>
     <li>Une fois le programme démarré vous allez voir un menu s'afficher </li><br>
   <img src="https://github.com/jonathannava99/Chest/blob/main/chest_test_images/beginning.png" 
-alt="" width="100" height="100">
+alt="" width="1000" height="200">
     <li></li>
     <li></li>
     <li></li>

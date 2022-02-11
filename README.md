@@ -27,11 +27,11 @@ alt="" width="1100" height="650">
     <li>Pour démarrer le programme tapez la commande suivante: "python main.py"</li>
     <li>Une fois le programme démarré vous allez voir un menu s'afficher.</li><br>
   <img src="https://github.com/jonathannava99/Chest/blob/main/chest_test_images/beginning.png" 
-alt="" width="1000" height="300" style="margin-bottom: 15px">
+alt="" width="1000" height="200" style="margin-bottom: 15px">
     <li>Pour créer un tournoi il suffit de selectionner "Créer un tournoi" tapez sur la touche entrée.
 Une fois cela fait des informations vous seront demandées.</li><br>
 <img src="https://github.com/jonathannava99/Chest/blob/main/chest_test_images/create_tournament.png" 
-alt="" width="1000" height="300">
+alt="" width="1000" height="200">
     <li></li>
     <li></li>
     <li></li>
